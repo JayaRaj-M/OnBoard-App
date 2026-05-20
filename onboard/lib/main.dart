@@ -28,6 +28,7 @@ class OnBoardApp extends StatelessWidget {
       themeMode: ThemeMode.dark,
       darkTheme: AppTheme.darkTheme,
       home: const DashboardScreen(),
+      
     );
   }
 }

@@ -27,6 +27,7 @@ class DashboardScreen extends ConsumerWidget {
   ];
 
   static const _navItems = [
+    
     _NavItem(icon: Icons.dashboard_rounded,        label: AppStrings.navDashboard),
     _NavItem(icon: Icons.check_circle_outline_rounded, label: AppStrings.navTasks),
     _NavItem(icon: Icons.repeat_rounded,           label: AppStrings.navHabits),

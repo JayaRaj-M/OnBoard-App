@@ -200,8 +200,7 @@ class _SignUpPageState extends State<SignUpPage>
           prefixIcon:  Icon(icon, color: Colors.greenAccent),
           hintText: hint,
           hintStyle: TextStyle(color: Colors.grey.shade500),
-        ),
-      ),
+        ), ),
     );
   }
 }

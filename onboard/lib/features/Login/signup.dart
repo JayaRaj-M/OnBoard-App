@@ -197,7 +197,7 @@ class _SignUpPageState extends State<SignUpPage>
         style: const TextStyle(color: Colors.white),
         decoration: InputDecoration(
           border: InputBorder.none,
-          prefixIcon: Icon(icon, color: Colors.greenAccent),
+          prefixIcon:  Icon(icon, color: Colors.greenAccent),
           hintText: hint,
           hintStyle: TextStyle(color: Colors.grey.shade500),
         ),
